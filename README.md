@@ -1,5 +1,5 @@
 # Socket
-A char room demo write with java and Android
+A chat room demo write with java and Android
 
 **Module 1**: The Server of the demo is writed with java,will send the message got from a client to all the client include the sender.
 
